@@ -1,28 +1,28 @@
 
-### Mir Mohammad Kamali
-<a href="http://uupload.ir/view/rnde_mohammad.jpg" target="_blank"><img src="http://uupload.ir/files/rnde_mohammad_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+### shaghayegh abedini
+<a href="http://uupload.ir/view/35fn_img_20181031_095912522.jpg" target="_blank"><img src="http://uupload.ir/files/35fn_img_20181031_095912522_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
-+ name: Mir mohammad
-+ last name : kamali
-+ Date of birth : 1999/April/10
-+ I am a trader and Computer engineering student
++ name: shaghayegh
++ last name : abedini
++ Date of birth : 1999/june/20
++ I am Computer engineering student
 + location : Tehran , I.R.Iran
 
 
 ### Skill Highlights
 
 ---
-+ trade on Tehran Stock Exchange and Forex
-+ Programming
-+ playing games on best leagues
++ I have marketing and sales skills
++ I have the skills to produce content for the site and social pages
++ Somewhat ability to work with Photoshop
 
 ### Education
 
 ---
-+ Diploma : Shahid Dr.Chamran school
++ Diploma : ershad school
 _ 2015
 + Bachelor of science : computer Engineering
 _ 2018,payam Noor University of Rey 
@@ -30,17 +30,19 @@ _ 2018,payam Noor University of Rey
 ### Favorites
 
 ---
-+ Trade
-+ ping-pong
-+ travel 
-+ playing video games
++ Photoshop
++ Study
++ Photography 
++ Content production and social media admin
 
 ### working Experience
 
 ---
-+ I am working in Mofid Brokerage .
++ I worked as a marketer for an insurance company
++ I worked as a telemarketer for a telecommunications agency
++ I am currently working at an engineering company working on a site and rewriting articles
 
 ### contact with me
 
 ---
-+ https://web.telegram.org/#/im?p=@M7M_K
++ https://www.instagram.com/__shghygh__78/
