@@ -14,9 +14,9 @@
 ### Skill Highlights
 
 ---
-+ I have marketing and sales skills
-+ I have the skills to produce content for the site and social pages
-+ Somewhat ability to work with Photoshop
++ Marketing and sales
++ Generate content for the site and social pages
++ Fluent in Photoshop
 
 ### Education
 
@@ -29,22 +29,21 @@ _ 2018,payam Noor University of Rey
 ### Favorites
 
 ---
-+ Photoshop
++ Photoshop and graphics
 + Study
 + Photography 
-+ Content production and social media admin
++ Manage and produce content for social networks
 
 ### working Experience
 
 ---
-+ I worked as a marketer for an insurance company
-+ I worked as a telemarketer for a telecommunications agency
-+ I am currently working at an engineering company working on a site and rewriting articles
-
++ Sales representative of Pasargad Insurance Company
++ Telemarketing in a telecommunications agency
++ Production and rewriting of content in Agile Engineering Company
 ---
 ### [رزومه فارسی](Resume-Fa.md)
 
 ### contact with me
 
 ---
-+ https://www.instagram.com/__shghygh__78/
++ https://www.instagram.com/shqyq_abedini
