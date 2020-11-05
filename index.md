@@ -45,7 +45,5 @@ _ 2018,payam Noor University of Rey
 
 ### [رزومه فارسی](Resume-Fa.md)
 
-### contact with me
+### contact with me : shaghayegh9578@gmail.com
 
----
-+ https://www.instagram.com/shqyq_abedini
