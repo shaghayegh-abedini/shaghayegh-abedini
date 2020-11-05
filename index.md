@@ -42,6 +42,9 @@ _ 2018,payam Noor University of Rey
 + I worked as a telemarketer for a telecommunications agency
 + I am currently working at an engineering company working on a site and rewriting articles
 
+---
+### [رزومه فارسی](Resume-Fa.md)
+
 ### contact with me
 
 ---
