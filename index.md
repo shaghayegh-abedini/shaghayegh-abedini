@@ -40,7 +40,9 @@ _ 2018,payam Noor University of Rey
 + Sales representative of Pasargad Insurance Company
 + Telemarketing in a telecommunications agency
 + Production and rewriting of content in Agile Engineering Company
+
 ---
+
 ### [رزومه فارسی](Resume-Fa.md)
 
 ### contact with me
