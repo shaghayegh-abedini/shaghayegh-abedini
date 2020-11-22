@@ -4,8 +4,7 @@ body{
 }
 </style>
 ### شقایق عابدینی
-<a href="https://uupload.ir/view/bw2q_۲۰۱۸۰۴۰۲_۱۹۲۴۵۰.jpg" target="_blank"><img src="https://uupload.ir/files/bw2q_۲۰۱۸۰۴۰۲_۱۹۲۴۵۰_thumb.jpg" border="0" alt="آپلود عکس" /></a>
-
+<a href="https://uupload.ir/view/z6vc_۲۰۲۰۱۱۲۲_۱۲۰۳۱۳.jpg" target="_blank"><img src="https://uupload.ir/files/z6vc_۲۰۲۰۱۱۲۲_۱۲۰۳۱۳_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 ### اطلاعات شخصی
 
 ---
