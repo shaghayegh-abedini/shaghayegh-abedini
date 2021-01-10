@@ -3,7 +3,7 @@
 [FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
 
 ### Mir Mohammad Kamali
-<a href="https://uupload.ir/view/1d9z_me.jpg" target="_blank"><img src="https://uupload.ir/files/1d9z_me_thumb.jpg" border="0" alt="آپلود عکس" /></a>
+<a href="https://uupload.ir/view/z6vc_۲۰۲۰۱۱۲۲_۱۲۰۳۱۳.jpg" target="_blank"><img src="https://uupload.ir/files/z6vc_۲۰۲۰۱۱۲۲_۱۲۰۳۱۳_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
