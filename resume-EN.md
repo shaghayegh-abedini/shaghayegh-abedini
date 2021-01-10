@@ -22,16 +22,16 @@
 
 ---
 <ol>
-  <li> trade on Tehran Stock Exchange and Forex</li>
-  <li>Programming</li>
-  <li>playing games on best leagues</li>
+  <li> PhotoShop</li>
+  <li> Content production</li>
+  <li> Marketing and sales</li>
 </ol>
 
 ### Education
 
 ---
 <ol>
-<li> Diploma : Shahid Dr.Chamran school
+<li> Diploma : Ershad highschool
   _ 2015</li>
 <li> Bachelor of science : computer Engineering
   _ 2018,payam Noor University of Rey </li>
@@ -41,10 +41,10 @@
 
 ---
 <ol>
-  <li> Trade</li>
-  <li> ping-pong</li>
-  <li> travel </li>
-  <li> playing video games</li>
+  <li> Graphics</li>
+  <li> photo Graphic</li>
+  <li> Study </li>
+  <li> Design</li>
 </ol>
 
 ### Speaking language
@@ -52,7 +52,6 @@
 ---
 <ol> 
   <li> Persian</li>
-  <li> Turkish</li>
   <li> Azeri</li>
   <li> English</li>
 </ol>
@@ -61,24 +60,20 @@
 
 ---
 <ol>
- <li> Android</li>
- <li> IOS</li>
  <li> Java Script</li>
  <li> C</li>
  <li> C++</li>
- <li> HTML</li>
- <li> CSS</li>
- <li> SQL</li>
 </ol>
 
 ### working Experience
 
 ---
 <ol>
-  <li> I am working in Mofid Brokerage </li>
+  <li> I am working in Pasargad Sales Representative </li>
+  <li> Content production for Chabak Engineering Company </li>
 </ol>
 
-### [contact with me](https://web.telegram.org/#/im?p=@M7M_K)
+### [contact with me](shaghayegh9578@gmail.com)
 
 
 --- 
