@@ -7,16 +7,16 @@ body{
  direction:rtl;
 }
 </style>
-### میرمحمد کمالی
+### شقایق عابدینی
 <a href="https://uupload.ir/view/z6vc_۲۰۲۰۱۱۲۲_۱۲۰۳۱۳.jpg" target="_blank"><img src="https://uupload.ir/files/z6vc_۲۰۲۰۱۱۲۲_۱۲۰۳۱۳_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### اطلاعات شخصی
 
 ---
 <ol>
- <li> نام : میرمحمد</li>
- <li> نام خانوادگی : کمالی</li>
- <li> تاریخ تولد : ۱۳۷۸/۰۱/۲۱</li>
+ <li> نام : شقایق</li>
+ <li> نام خانوادگی : عابدینی</li>
+ <li> تاریخ تولد : ۱۳۷۸/۰۳/۳۰</li>
  <li> وضعیت تاهل : مجرد</li>
  <li> دانشجوی مهندسی کامپیوتر</li>
  <li> موقعیت مکانی : ایران،تهران</li>
@@ -73,14 +73,9 @@ body{
 
 ---
 <ol>
- <li> Android</li>
- <li> IOS</li>
  <li> Java Script</li>
  <li> C</li>
  <li> ++C</li>
- <li> HTML</li>
- <li> CSS</li>
- <li> SQL</li>
 </ol>
  
 
