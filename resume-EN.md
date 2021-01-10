@@ -2,18 +2,18 @@
 ---
 [FA](index.md)<a class="pt-trigger" href="index" data-animation="62"> <img src="img/Iran.png" width="20" height="20"/></a>
 
-### Mir Mohammad Kamali
+### Shaghayegh Abedini
 <a href="https://uupload.ir/view/z6vc_۲۰۲۰۱۱۲۲_۱۲۰۳۱۳.jpg" target="_blank"><img src="https://uupload.ir/files/z6vc_۲۰۲۰۱۱۲۲_۱۲۰۳۱۳_thumb.jpg" border="0" alt="آپلود عکس" /></a>
 
 ### Personal informations
 
 ---
 <ol>
-  <li> Name: Mir Mohammad</li>
+  <li> Name: Shaghayegh</li>
   <li> Last name : Kamali</li>
-  <li> Date of birth : 1999/April/10</li>
+  <li> Date of birth : 1999/jun/20</li>
   <li> Martial status : Single</li>
-  <li> I am a trader and Computer engineering student</li>
+  <li> I am a Computer engineering student</li>
   <li> Location : Tehran , I.R.Iran</li>
 </ol>
 
